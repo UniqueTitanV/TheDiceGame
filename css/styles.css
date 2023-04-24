@@ -1,0 +1,52 @@
+html{
+  position: relative;
+  min-height: 100%;
+}
+
+body{
+  position: relative;
+  text-align: center;
+  margin: 0%;
+  background-color: grey;
+  color: #67D7A3;
+}
+
+.thedicegame{
+  text-align: center;
+  padding-top: 30px;
+  font-family: 'Lobster', 'Times New Roman', serif;
+  font-size: 5rem;
+  
+  text-shadow: #000 0px 0px 50px, #000 0px 0px 5px,   #000 0px 0px 5px,
+  #000 0px 0px 5px,   #000 0px 0px 5px,   #000 0px 0px 5px, #000 0px 0px 5px,   #000 0px 0px 5px,   #000 0px 0px 5px,
+  #000 0px 0px 5px,   #000 0px 0px 5px,   #000 0px 0px 5px, #000 0px 0px 5px,   #000 0px 0px 5px,   #000 0px 0px 30px;
+  -webkit-font-smoothing: antialiased;
+}
+.refreshme{
+  font-family: 'Gelasio', serif;
+}
+
+.Dices{
+  text-align: center;
+}
+
+.DiceDiv{
+  display: inline-block;
+  padding-top: 20px;
+  vertical-align: middle;
+
+/* The right dice margin to center */
+  margin-right: 25px;
+/* The left dice margin to center */
+  margin-left: 25px;
+}
+
+/* 
+
+
+
+font-family: 'Gelasio', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+
+*/
